@@ -3,5 +3,6 @@ public class GitPractice {
         System.out.println("I hope git works");
         System.out.println("this is still the second video");
         System.out.println("this is the end of the first module");
+        System.out.println("extra work");
     }
 }
